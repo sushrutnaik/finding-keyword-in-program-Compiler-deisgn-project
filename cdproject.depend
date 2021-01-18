@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555485335 source:/Users/sushrutnaik/Desktop/cdproject/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
